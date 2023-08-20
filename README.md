@@ -14,5 +14,3 @@ Use this diary app to make your own personal notes of daily events, appointments
 ### Delete
 ![Image of demo](https://github.com/hossainchisty/Django-Dear-Diary-App/blob/master/delete.png)
 
-#### Made with ☕ and Django.
-#### Happy Coding 💻
